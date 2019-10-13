@@ -1,4 +1,4 @@
-package com.sb.demo;
+package com.sb.andemen;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
